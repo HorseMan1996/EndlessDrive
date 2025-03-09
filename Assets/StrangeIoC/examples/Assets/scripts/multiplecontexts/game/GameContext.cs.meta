@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b83b45708a026401387b4aaf42b8cda4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/GameContext.cs
+  uploadId: 2759

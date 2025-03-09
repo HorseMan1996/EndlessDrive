@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81f418cc091aa4c4491a4803fe9f08a9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/ReadMe.txt
+  uploadId: 2759

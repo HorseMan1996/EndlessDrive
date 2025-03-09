@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 217f35209a4a04dd58344cfec6db107c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/controller/MainEvent.cs
+  uploadId: 2759

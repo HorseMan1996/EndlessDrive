@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f933e850ff4ee0438dac44bde3162c0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/scripts/strange/README.md
+  uploadId: 2759

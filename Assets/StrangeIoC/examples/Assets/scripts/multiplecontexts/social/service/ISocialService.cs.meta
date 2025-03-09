@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 79ba26cab59024b31b746cd8a4b3ff54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/service/ISocialService.cs
+  uploadId: 2759

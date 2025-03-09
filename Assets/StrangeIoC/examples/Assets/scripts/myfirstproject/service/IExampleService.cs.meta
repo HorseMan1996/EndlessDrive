@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a9a7ec9bda839405bb2a62afe5407283
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/service/IExampleService.cs
+  uploadId: 2759

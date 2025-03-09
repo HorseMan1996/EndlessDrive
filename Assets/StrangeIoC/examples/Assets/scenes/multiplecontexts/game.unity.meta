@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63cc202a6aefd4364ab9d942a24c0716
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scenes/multiplecontexts/game.unity
+  uploadId: 2759

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2822d43a0a9584662b05c14d6cf5774f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/ReplayGameCommand.cs
+  uploadId: 2759

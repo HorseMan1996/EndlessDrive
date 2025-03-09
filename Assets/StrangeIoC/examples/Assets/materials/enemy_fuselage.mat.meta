@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4eb95348d4c84926840eb262e22aa80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/materials/enemy_fuselage.mat
+  uploadId: 2759

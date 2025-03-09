@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 872da8ed9d2eb454b96b338cd7a2701c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/MyFirstContext.cs
+  uploadId: 2759

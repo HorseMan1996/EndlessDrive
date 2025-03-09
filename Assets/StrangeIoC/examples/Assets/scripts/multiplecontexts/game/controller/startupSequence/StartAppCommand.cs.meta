@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40d6b8e5c397f4029b3ba0905f0f6d73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/startupSequence/StartAppCommand.cs
+  uploadId: 2759

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a79b18bef1664f4f8ca00b8f24ce293
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/controller/LoadSceneCommand.cs
+  uploadId: 2759

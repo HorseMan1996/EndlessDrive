@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca117a9bbd0d14ec294e0e9ae05a2103
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/scenes/multiplecontexts/social.unity
+  uploadId: 2759

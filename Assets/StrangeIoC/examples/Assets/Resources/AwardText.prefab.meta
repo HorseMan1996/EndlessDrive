@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a68b08daeb6b643fd97009297f3e87b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/Resources/AwardText.prefab
+  uploadId: 2759

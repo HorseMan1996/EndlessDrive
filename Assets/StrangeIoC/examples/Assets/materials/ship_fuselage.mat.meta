@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1f5579d70ba5443a8e79e9e357f34d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/examples/Assets/materials/ship_fuselage.mat
+  uploadId: 2759
