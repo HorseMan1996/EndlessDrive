@@ -34,7 +34,7 @@ namespace strange.examples.myfirstproject
 		{
 		}
 		
-		protected override void mapBindings()
+		protected override void MapBindings()
 		{
 			//Injection binding.
 			//Map a mock model and a mock service, both as Singletons

@@ -44,7 +44,7 @@ namespace strange.examples.signals
 			return this;
 		}
 		
-		protected override void mapBindings()
+		protected override void MapBindings()
 		{
 			injectionBinder.Bind<IExampleModel>().To<ExampleModel>().ToSingleton();
 			injectionBinder.Bind<IExampleService>().To<ExampleService>().ToSingleton();

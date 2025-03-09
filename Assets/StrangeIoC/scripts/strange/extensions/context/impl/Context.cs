@@ -100,7 +100,7 @@ namespace strange.extensions.context.impl
 		virtual public IContext Start()
 		{
 			instantiateCoreComponents();
-			mapBindings();
+			MapBindings();
 			postBindings();
 			if (autoStartup)
 				Launch();
@@ -114,7 +114,7 @@ namespace strange.extensions.context.impl
 		}
 		
 		/// Override to map project-specific bindings
-		virtual protected void mapBindings()
+		virtual protected void MapBindings()
 		{
 		}
 		

@@ -4,11 +4,11 @@ using UnityEngine.UI;
 
 public class GameView : View
 {
-    public TMP_Text scoreText;
+    public TMP_Text ScoreText;
     public Button AddScore;
 
     public void UpdateScore(int score)
     {
-        scoreText.text = "Score: " + score;
+        ScoreText.text = "Score: " + score;
     }
 }

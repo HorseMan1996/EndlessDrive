@@ -40,7 +40,7 @@ namespace strange.examples.multiplecontexts.main
 		{
 		}
 		
-		protected override void mapBindings()
+		protected override void MapBindings()
 		{
 			//Any event that fire across the Context boundary get mapped here.
 			crossContextBridge.Bind(MainEvent.GAME_COMPLETE);

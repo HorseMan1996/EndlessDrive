@@ -40,7 +40,7 @@ namespace strange.examples.multiplecontexts.social
 		{
 		}
 		
-		protected override void mapBindings()
+		protected override void MapBindings()
 		{
 			commandBinder.Bind(ContextEvent.START).To<StartCommand>().Once();
 			commandBinder.Bind(SocialEvent.FULFILL_CURRENT_USER_REQUEST).To<CreateUserTileCommand>();

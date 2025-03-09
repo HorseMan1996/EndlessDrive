@@ -12,7 +12,7 @@ namespace Assets.Scripts.GameRoot.Root
 
         private StartGameSignals _gameSignals { get; set; }
         
-        protected override void mapBindings()
+        protected override void MapBindings()
         {
             injectionBinder.Bind<StartSignal>().To<StartSignal>().ToSingleton();
             injectionBinder.Bind<UpdateUISignal>().To<UpdateUISignal>().ToSingleton();

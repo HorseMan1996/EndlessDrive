@@ -39,7 +39,7 @@ namespace strange.examples.multiplecontexts.game
 		{
 		}
 		
-		protected override void mapBindings()
+		protected override void MapBindings()
 		{
 			injectionBinder.Bind<IScore>().To<ScoreModel>().ToSingleton();
 			
